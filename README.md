@@ -291,6 +291,7 @@ drwxrwx---   - root root          0 2023-03-31 07:52 /app-logs/root/logs-tfile/a
 #### Open the History Server web interface at[http://127.0.0.1:8188/applicationhistory](http://127.0.0.1:8188/applicationhistory)
 
 ![history.png](history.png)
+![success.png](success.png)
 
 #### Verifying the results of the map reduce job
 ```bash
