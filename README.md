@@ -63,7 +63,7 @@ the mapper and/or the reducer. For example:
 |[requirements.txt](tests/requirements.txt)|Python requirements file.|
 |[app/test_hdfs.py](tests/test_hdfs.py)|Python script that tests writing data into HDFS.|
 |[app/mapper.sh](tests/mapper.sh)|Mapper job.|
-|[app/reducer.sh](tests/reducer.sh)Reducer job.|
+|[app/reducer.sh](tests/reducer.sh)|Reducer job.|
 
 ## References
 
